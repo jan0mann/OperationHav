@@ -2,7 +2,7 @@ namespace OperationHav
 {
     public class CommandWords
     {
-        public List<string> ValidCommands { get; } = new List<string> { "north", "east", "south", "west", "look", "help", "back", "quit" };
+        public List<string> ValidCommands { get; } = new List<string> { "north", "east", "south", "west", "look", "help", "back", "quit", "TEST" };
 
         public bool IsValidCommand(string command)
         {

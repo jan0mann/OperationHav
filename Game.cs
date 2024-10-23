@@ -13,7 +13,7 @@ namespace OperationHav
         private void CreateRooms()
         {
   
-            Room? MainIsland = new("Main island", "You are standing on an island in the middle of the beautiful Pacific Ocean. Your island though, is not as beautiful. \nThere are oil spills on the beach, plastic in the water near to you and you can smell some toxicated water right in front of you. \nTo the east is a large building, to the south is a computing lab, and to the west is the campus pub. \nThere is a letter on the ground");
+            Room? MainIsland = new("Main island", "TESTTEStYou are standing on an island in the middle of the beautiful Pacific Ocean. Your island though, is not as beautiful. \nThere are oil spills on the beach, plastic in the water near to you and you can smell some toxicated water right in front of you. \nTo the east is a large building, to the south is a computing lab, and to the west is the campus pub. \nThere is a letter on the ground");
             Room? theatre = new("Theatre", "You find yourself inside a large lecture theatre. Rows of seats ascend up to the back, and there's a podium at the front. It's quite dark and quiet.");
             Room? pub = new("Pub", "You've entered the campus pub. It's a cozy place, with a few students chatting over drinks. There's a bar near you and some pool tables at the far end.");
             Room? lab = new("Lab", "You're in a computing lab. Desks with computers line the walls, and there's an office to the east. The hum of machines fills the room.");
