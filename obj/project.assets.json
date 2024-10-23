@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/janferchof/.nuget/packages/": {}
+    "C:\\Users\\dariu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/janferchof/Documents/OperationHav/OperationHav/OperationHav.csproj",
+      "projectUniqueName": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\OperationHav.csproj",
       "projectName": "OperationHav",
-      "projectPath": "/Users/janferchof/Documents/OperationHav/OperationHav/OperationHav.csproj",
-      "packagesPath": "/Users/janferchof/.nuget/packages/",
-      "outputPath": "/Users/janferchof/Documents/OperationHav/OperationHav/obj/",
+      "projectPath": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\OperationHav.csproj",
+      "packagesPath": "C:\\Users\\dariu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/janferchof/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dariu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
