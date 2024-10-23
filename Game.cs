@@ -94,7 +94,7 @@ namespace OperationHav
                 }
             }
 
-            Console.WriteLine("Thank you for playing World of Zuul!");
+            Console.WriteLine("Thank you for playing Operation Hav!");
         }
 
         private void Move(string direction)
