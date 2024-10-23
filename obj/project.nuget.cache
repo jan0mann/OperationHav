@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "ZrVOgmAmGaI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\OperationHav.csproj",
+=======
   "dgSpecHash": "/pcdpEbao2s=",
   "success": true,
   "projectFilePath": "C:\\Persønliches\\Desktop\\SDU - Software Engineering\\Subjects\\Semester Project 1\\OperationHav-1\\OperationHav.csproj",
+>>>>>>> 363816fa54830bf0de9a2a4ad25eb932b38694da
   "expectedPackageFiles": [],
   "logs": []
 }

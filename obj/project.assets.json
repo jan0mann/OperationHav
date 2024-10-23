@@ -8,11 +8,25 @@
     "net9.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\dariu\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\noahb\\.nuget\\packages\\": {}
+>>>>>>> 363816fa54830bf0de9a2a4ad25eb932b38694da
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\OperationHav.csproj",
+      "projectName": "OperationHav",
+      "projectPath": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\OperationHav.csproj",
+      "packagesPath": "C:\\Users\\dariu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dariu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
       "projectUniqueName": "C:\\Persønliches\\Desktop\\SDU - Software Engineering\\Subjects\\Semester Project 1\\OperationHav-1\\OperationHav.csproj",
       "projectName": "OperationHav",
       "projectPath": "C:\\Persønliches\\Desktop\\SDU - Software Engineering\\Subjects\\Semester Project 1\\OperationHav-1\\OperationHav.csproj",
@@ -21,6 +35,7 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noahb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 363816fa54830bf0de9a2a4ad25eb932b38694da
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +80,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 363816fa54830bf0de9a2a4ad25eb932b38694da
       }
     }
   }
