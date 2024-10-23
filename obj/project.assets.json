@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/janferchof/Documents/VSCode/OperationHav/OperationHav.csproj",
+      "projectUniqueName": "/Users/janferchof/Documents/OperationHav/OperationHav/OperationHav.csproj",
       "projectName": "OperationHav",
-      "projectPath": "/Users/janferchof/Documents/VSCode/OperationHav/OperationHav.csproj",
+      "projectPath": "/Users/janferchof/Documents/OperationHav/OperationHav/OperationHav.csproj",
       "packagesPath": "/Users/janferchof/.nuget/packages/",
-      "outputPath": "/Users/janferchof/Documents/VSCode/OperationHav/obj/",
+      "outputPath": "/Users/janferchof/Documents/OperationHav/OperationHav/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/janferchof/.nuget/NuGet/NuGet.Config"
