@@ -8,34 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\dariu\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\noahb\\.nuget\\packages\\": {}
->>>>>>> 363816fa54830bf0de9a2a4ad25eb932b38694da
+    "/Users/janferchof/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\OperationHav.csproj",
+      "projectUniqueName": "/Users/janferchof/Documents/OperationHav/OperationHav/OperationHav.csproj",
       "projectName": "OperationHav",
-      "projectPath": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\OperationHav.csproj",
-      "packagesPath": "C:\\Users\\dariu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dariu\\Desktop\\Operation Hav\\OperationHav\\obj\\",
+      "projectPath": "/Users/janferchof/Documents/OperationHav/OperationHav/OperationHav.csproj",
+      "packagesPath": "/Users/janferchof/.nuget/packages/",
+      "outputPath": "/Users/janferchof/Documents/OperationHav/OperationHav/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dariu\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "C:\\Persønliches\\Desktop\\SDU - Software Engineering\\Subjects\\Semester Project 1\\OperationHav-1\\OperationHav.csproj",
-      "projectName": "OperationHav",
-      "projectPath": "C:\\Persønliches\\Desktop\\SDU - Software Engineering\\Subjects\\Semester Project 1\\OperationHav-1\\OperationHav.csproj",
-      "packagesPath": "C:\\Users\\noahb\\.nuget\\packages\\",
-      "outputPath": "C:\\Persønliches\\Desktop\\SDU - Software Engineering\\Subjects\\Semester Project 1\\OperationHav-1\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\noahb\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 363816fa54830bf0de9a2a4ad25eb932b38694da
+        "/Users/janferchof/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -80,12 +65,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
->>>>>>> 363816fa54830bf0de9a2a4ad25eb932b38694da
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/janferchof/Documents/OperationHav/OperationHav/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
